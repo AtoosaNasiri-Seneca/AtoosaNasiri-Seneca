@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+I am a full-time Cloud Architect specializing in providing, configuring and governance of  Big Data Cloud Sytems. I am also a Part-Time professor at Seneca Poly
+
 <!--
 **AtoosaNasiri-Seneca/AtoosaNasiri-Seneca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
