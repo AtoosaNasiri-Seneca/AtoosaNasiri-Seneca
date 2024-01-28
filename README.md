@@ -13,8 +13,13 @@
   </p>
   <p align='center'>
     <img src="https://komarev.com/ghpvc/?username=atoosanasiri-seneca&color=&color=dc143c&style=plastic" alt="https://github.com/atoosanasiri-seneca" align="center" />
-    <br> <br>
-    <img src="./images/azureproject.png" alt="header" align="center" />
+    <br>
+  </p>
+  <p align='center'>
+    <a href="https://azure-project-winter2024.github.io/">
+    <img src="./images/azureprojectwinter2024.png" alt="Azure Project Winter2024" align="center" />
+</a></p>
+
   <p align='center'>
 </p>
 
