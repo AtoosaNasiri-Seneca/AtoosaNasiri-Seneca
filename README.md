@@ -2,20 +2,19 @@
 **atoosanasiri-seneca/atoosanasiri-seneca** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 --->  
 
-<h1 align="center"> 👋 Hi, there </h1>
-<div align="center">
-  <img src="./images/azureproject.png" alt="header"/>
-</div>
-
-<h2 align="center"> Whoami</h2>
-<p align="center">An enthusiast Cloud Architect.<br>Day job: deploying MLOps pipeline - GCP-K8S<br>After hours: teaching AWS/Azure DevOps - Seneca Polytechnic 
-  <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=atoosanasiri-seneca&color=&color=dc143c&style=plastic" alt="https://github.com/atoosanasiri-seneca" />
-</p>
-
+<h2 align="center"> 👋 Hi, there </h2>
+  <p align="center">I am an enthusiast Cloud Architect.<br>Day job: deploying MLOps pipeline - GCP-K8S<br>After hours: teaching AWS/Azure DevOps - Seneca Polytechnic 
+  <p align="center">
+  <!-- display the social media buttons in your README -->
+  <p align='center'>
+    <a href="https://www.linkedin.com/in/atoosanasiri/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://medium.com/@atoosansasiri"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" target="_blank" rel="noopener noreferrer" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://twitter.com/atoosanasiri"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" target="_blank" rel="noopener noreferrer" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </p>
+<!-- To Link your profile to the media buttons -->  
 <hr>
 
-<h2 align="center"> 🔭 Data Science Tools</h2>
+<h2 align="center"> 🔭 Data Science Tools </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
@@ -28,7 +27,7 @@
 
 <hr>
 
-<h2 align="center"> ☁️ Cloud Platforms </h2>
+<h2 align="center"> ☁️ Cloud Stack </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -46,15 +45,6 @@
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />&nbsp;&nbsp;&nbsp;
-</p>
-
-<hr>
-
-<h2  align="center"> 📬 Reach me on</h2>
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/atoosanasiri"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/atoosanasiri"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:atoosa.nasiri@senecapolytechni.ca?subject=Hello%20AtoosaNasiri-Seneca,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
