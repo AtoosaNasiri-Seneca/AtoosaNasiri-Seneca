@@ -6,7 +6,6 @@
 <div align="center">
   <img src="./header.gif" alt="header"/>
 </div>
-<p align="center"> (Open for Hiring)</p>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">An enthusiast Cloud Architect.<br>Day job: deploying MLOps pipeline - GCP-K8S<br>After hours: teaching AWS/Azure DevOps - Seneca Polytechnic 
