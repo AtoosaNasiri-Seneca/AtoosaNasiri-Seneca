@@ -3,26 +3,18 @@
 --->  
 
 <h2 align="center"> 👋 Hi, there </h2>
-  <p align="center">I am an enthusiast Cloud Architect.<br>Day job: deploying MLOps pipeline - GCP-K8S<br>After hours: teaching AWS/Azure DevOps - Seneca Polytechnic 
   <p align="center">
+    I am an enthusiast Cloud Architect.<br>Day job: deploying MLOps pipeline - GCP-K8S<br>After hours: teaching AWS/Azure DevOps - Seneca Polytechnic
+  </p>
   <!-- display the social media buttons in your README -->
   <p align='center'>
     <a href="https://www.linkedin.com/in/atoosanasiri/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://medium.com/@atoosanasiri"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://twitter.com/atoosanasiri"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" target="_blank" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
-  <p align='center'>
+  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=atoosanasiri-seneca&color=&color=dc143c&style=plastic" alt="https://github.com/atoosanasiri-seneca" align="center" />
-    <br>
   </p>
-  <p align='center'>
-    <a href="https://azure-project-winter2024.github.io/">
-    <img src="./images/azureprojectwinter2024.png" alt="Azure Project Winter2024" align="center" />
-</a></p>
-
-  <p align='center'>
-</p>
-
 <!-- To Link your profile to the media buttons -->  
 <hr>
 
@@ -58,3 +50,11 @@
   <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
+
+<hr>
+
+<h2 align="center"> 📚 Current Courses </h2>
+<p align="center">
+<p><a href="https://azure-project-winter2024.github.io/">
+<img src="./images/azureprojectwinter2024.png" alt="Azure Project Winter2024" align="center"  target="_blank">
+</a></p>
