@@ -4,10 +4,10 @@
 
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="./header.gif" alt="header"/>
+  <img src="./images/azureproject.png" alt="header"/>
 </div>
 
-<h2 align="center"> 👨‍💻 Whoami</h2>
+<h2 align="center"> 👩‍🏫 Whoami</h2>
 <p align="center">An enthusiast Cloud Architect.<br>Day job: deploying MLOps pipeline - GCP-K8S<br>After hours: teaching AWS/Azure DevOps - Seneca Polytechnic 
   <br> <br>
   ![](https://komarev.com/ghpvc/?username=atoosanasiri-seneca&color=&color=dc143c&style=plastic)
