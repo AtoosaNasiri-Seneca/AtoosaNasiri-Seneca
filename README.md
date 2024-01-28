@@ -17,10 +17,13 @@
 
 <h2 align="center"> 🔭 Data Science Tools</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TensorFlow-1.12-FF6F00.svg?style=flat&logo=tensorflow" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Streamlit-1.2.0-FF4B4B.svg?style=flat&logo=Streamlit&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-script-276DC3.svg?style=for-the-badge&logo=R  " />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;  
 </p>
 
 <hr>
@@ -47,7 +50,7 @@
 
 <hr>
 
-<h2  align="center">📫 Reach me on</h2>
+<h2  align="center"> 📬 Reach me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/atoosanasiri"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/atoosanasiri"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
