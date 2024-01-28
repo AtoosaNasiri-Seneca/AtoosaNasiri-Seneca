@@ -1,12 +1,11 @@
 <!--
-**atoosanasiri-seneca/atoosanasiri-seneca** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
+**✨ _Atoosa Nasiri is a Cloud Architect_ ✨
 --->  
 
 <h2 align="center"> 👋 Hi, there </h2>
   <p align="center">
     I am an enthusiast Cloud Architect.<br>Day job: deploying MLOps pipeline - GCP-K8S<br>After hours: teaching AWS/Azure DevOps - Seneca Polytechnic
   </p>
-  <!-- display the social media buttons in your README -->
   <p align='center'>
     <a href="https://www.linkedin.com/in/atoosanasiri/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://medium.com/@atoosanasiri"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" target="_blank" /></a>&nbsp;&nbsp;&nbsp;
