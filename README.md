@@ -15,7 +15,11 @@
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=atoosanasiri-seneca&color=&color=dc143c&style=plastic" alt="https://github.com/atoosanasiri-seneca" align="center" />
   </p>
-<!-- To Link your profile to the media buttons -->  
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=atoosanasiri-seneca&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
 <hr>
 
 <h2 align="center"> 🔭 Data Science Tools </h2>
