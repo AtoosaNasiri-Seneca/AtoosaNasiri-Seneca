@@ -2,34 +2,47 @@
 **atoosanasiri-seneca/atoosanasiri-seneca** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 --->  
 
-<h1 align="center"> 👋 </h1>
+<h1 align="center"> 👋 Hi, there </h1>
 <div align="center">
   <img src="./images/azureproject.png" alt="header"/>
 </div>
 
-<h2 align="center"> 👩‍🏫 Whoami</h2>
+<h2 align="center"> Whoami</h2>
 <p align="center">An enthusiast Cloud Architect.<br>Day job: deploying MLOps pipeline - GCP-K8S<br>After hours: teaching AWS/Azure DevOps - Seneca Polytechnic 
   <br> <br>
-  ![](https://komarev.com/ghpvc/?username=atoosanasiri-seneca&color=&color=dc143c&style=plastic)
-  <br>
   <img src="https://komarev.com/ghpvc/?username=atoosanasiri-seneca&color=&color=dc143c&style=plastic" alt="https://github.com/atoosanasiri-seneca" />
 </p>
 
 <hr>
 
-<h2 align="center"> 🔭 Tools of Trade</h2>
+<h2 align="center"> 🔭 Data Science Tools</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TensorFlow-1.12-FF6F00.svg?style=flat&logo=tensorflow" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Streamlit-1.2.0-FF4B4B.svg?style=flat&logo=Streamlit&logoColor=white" />&nbsp;&nbsp;
 </p>
-<p align="center">TailwindCSS, Python, Docker, Kubernetes, Rancher, TravisCI, Git, Github, Bitbucket, Apache, Nginx, Vagrant, Ansible, Jenkins, Azure.</p>
 
 <hr>
 
-<h2 align="center">💬 My Blog Articles</h2>
-<p align="center" align='right'>
-  <a target="_blank"href="https://medium.com/@atoosanasiri"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+<h2 align="center"> ☁️ Cloud Platforms </h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white" />&nbsp;&nbsp;&nbsp;
+</p>
+
+<hr>
+
+<h2 align="center"> ⚙️ DevOps Tools </h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
