@@ -1,7 +1,3 @@
-<!--
-**✨ _Atoosa Nasiri is a Cloud Architect_ ✨
---->  
-
 <h2 align="center"> 👋 Hi, there </h2>
   <p align="center">
     I am an enthusiast Cloud Architect.<br>Day job: deploying MLOps pipeline - GCP-K8S<br>After hours: teaching AWS/Azure DevOps - Seneca Polytechnic
