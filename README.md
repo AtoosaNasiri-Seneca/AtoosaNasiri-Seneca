@@ -16,10 +16,26 @@
     <img src="https://komarev.com/ghpvc/?username=atoosanasiri-seneca&color=&color=dc143c&style=plastic" alt="https://github.com/atoosanasiri-seneca" align="center" />
   </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=atoosanasiri-seneca&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
+  <p align='center'>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=atoosanasiri-seneca&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  </p>
 
+  <p align='center'>
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/atoosanasiri-seneca/beautify-github-profile?style=flat-square">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/atoosanasiri-seneca/beautify-github-profile?style=flat-square">
+    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/atoosanasiri-seneca/beautify-github-profile?style=flat-square">
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/atoosanasiri-seneca/beautify-github-profile?color=blue&style=flat-square">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/atoosanasiri-seneca/beautify-github-profile?color=blue&style=flat-square">
+    <img alt="GitHub" src="https://img.shields.io/github/license/atoosanasiri-seneca/beautify-github-profile?color=blue&style=flat-square">
+    <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/atoosanasiri-seneca/beautify-github-profile?color=blue&style=flat-square">
+    <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/atoosanasiri-seneca/beautify-github-profile?color=blue&style=flat-square">
+  </p>
+
+  <p align='center'>    
+    <img alt="GitHub closed pull requests" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atoosanasiri-seneca&theme=default" />
+    <img alt="GitHub closed pull requests" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atoosanasiri-seneca&theme=default" />
+    <img alt="GitHub closed pull requests" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=atoosanasiri-seneca&theme=default" />
+  </p>
 <hr>
 
 <h2 align="center"> 🔭 Data Science Tools </h2>
